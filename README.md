@@ -1,5 +1,5 @@
 # Last updated:
-This repository was last updated at: `1775235761` | `2026-04-03 17:02:41` UTC
+This repository was last updated at: `1775236101` | `2026-04-03 17:08:21` UTC
 
 # Overview
 
@@ -21,20 +21,6 @@ The following statistics show the number of keys found across different versions
 | 2.17.6 | 66 | cdeb82f474225dff1677448c6bc82e87 | N/A |
 
 **Total**: 211 keys, 8 versions
-
-## RSA Public Key for Version 4.1.1
-
-The RSA public key for version **4.1.1**:
-
-```
-MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqSTNJZU7gMhP9TY9nSs24PIUw9BM8qe5xljJsjxj38YdmlOwwvZ9rUYw17gRyda3Uk76ZJQzzwvHc2GnzHbTjyC8ZiROJeBjGLnkXJbimSlD8LS3NGnX6D6XwB72YFkQXt+hXtjnf6dRoQ15x+tDlps2TQZfpbjRZ+aTBOxExXx8hs12Wt7BKkDJtYwffi9QBsNlKuV/uxAdh179efHyHPfj64N3q+ihda0v7bcw/cYXEqNQ0Ews0xl/cIILPTFi/M7LOCd4fZaQIU1S/nm/CswJPgACxXqxefDQu+2aczF89Hmkhopkm9LefIgElJcfP60XUsfdJ3LnvBVoZMZDiwIDAQAB
-```
-
-The XOR decryption key for version **4.1.1**:
-
-```
-567
-```
 
 ## RSA Public Key for Version 4.0.16
 
