@@ -1,5 +1,5 @@
 # Last updated:
-This repository was last updated at: `1775299752` | `2026-04-04 10:49:12` UTC
+This repository was last updated at: `1775300106` | `2026-04-04 10:55:06` UTC
 
 # Overview
 
@@ -12,15 +12,15 @@ The following statistics show the number of keys found across different versions
 | Version | Number of Keys | Enforcement Hash | Build ID |
 |---------|----------------|------------------|----------|
 | 4.1.1 | 2 | 69a18bd7597a6f0636c0c2f982c6a8c3 | 29445957-89ae-49bd-8bf9-b45b92739cdf |
-| 4.0.16 | 113 | 201af2db450fecb8242d98ec4dac983a | 09493a0d-3295-4bae-879b-6c81044a46a1 |
-| 4.0.15 | 3 | 534454a31b2b57c8a68d2c42361d6302 | 8582c73d-bb69-45ae-8266-30cfbdfb0e07 |
-| 4.0.14 | 5 | 8bfdb07c6a1744205f833adf1d7cf42b | 4bef235e-60d1-4f49-8483-e44e1455dac2 |
-| 3.7.10 | 9 | ea083e6be4a6ca610671bb219ac74b14 | N/A |
-| 3.7.9 | 10 | 49bcbdb5c09b32c79810a6cdd39bb1d1 | N/A |
+| 4.0.16 | 83 | 201af2db450fecb8242d98ec4dac983a | 09493a0d-3295-4bae-879b-6c81044a46a1 |
+| 4.0.15 | 2 | 534454a31b2b57c8a68d2c42361d6302 | 8582c73d-bb69-45ae-8266-30cfbdfb0e07 |
+| 4.0.14 | 4 | 8bfdb07c6a1744205f833adf1d7cf42b | 4bef235e-60d1-4f49-8483-e44e1455dac2 |
+| 3.7.10 | 5 | ea083e6be4a6ca610671bb219ac74b14 | N/A |
+| 3.7.9 | 8 | 49bcbdb5c09b32c79810a6cdd39bb1d1 | N/A |
 | 3.7.8 | 3 | 9927ff35f6667a08e343c5bd0e1ede36 | N/A |
-| 2.17.6 | 66 | cdeb82f474225dff1677448c6bc82e87 | N/A |
+| 2.17.6 | 54 | cdeb82f474225dff1677448c6bc82e87 | N/A |
 
-**Total**: 211 keys, 8 versions
+**Total**: 161 keys, 8 versions
 
 ## RSA Public Key for Version 4.1.1
 
